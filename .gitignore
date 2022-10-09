@@ -1,6 +1,6 @@
 _old
 _backup
-png_backup
+*.png_backup
 .DS_Store
 Thumbs.db
 tmp/
